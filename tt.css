@@ -1,0 +1,294 @@
+body { background-color: black; }
+#myImage {
+    position: absolute;
+  top: 409px; left: 1050px;
+  }
+  #mImage {
+    position: absolute;
+  top: 709px; left: 1050px;
+  }
+  #mImge {
+    position: absolute;
+  top: 1009px; left: 1050px;
+  }
+  #mImag {
+    position: absolute;
+  top: 1309px; left: 1050px;
+  }
+  #Imag {
+    position: absolute;
+  top: 1609px; left: 1050px;
+  }
+  #mag {
+    position: absolute;
+  top: 1909px; left: 1050px;
+  }
+  #ag {
+    position: absolute;
+  top: 2209px; left: 1050px;
+  }  
+  #g {
+    position: absolute;
+  top: 2509px; left: 1050px;
+  }
+  * {box-sizing: border-box;}
+  form {
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
+    top: -80px; left: 30px;
+  }
+  .social-icons img{
+    position: absolute;
+    top: 20px; left: 1000px;
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 3px;
+    width: 400px;
+    height: 250px;
+}  
+
+  body  {
+	color: #ffffff;
+	margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  input {
+    width: 100%;
+    height: 42px;
+    padding-left: 10px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    outline: none;
+    background: #000000;
+    color: #000000;
+  
+  }
+  button {
+    position: absolute; 
+    top: 0;
+  
+    right: 0px;
+    width: 42px;
+    height: 42px;
+    border: none;
+    background: #ffffff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  button:before {
+    content: "\f002";
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: #000000;
+  }
+  #pertext4 {
+    position: absolute;
+    top: 0;
+    top: 20px; left: 1680px;
+    font-size: 16pt;
+  }
+  #pertext6 {
+    position: absolute;
+    top: 0;
+    top: 2900px; left: 30px;
+    font-size: 20pt;
+  }
+  #mo{
+    position: absolute;
+    top: 3000px; left: 1150px;
+  }
+  h1{
+    position: absolute;
+    top: 0;
+    top: 50px; left: 100px;
+    font-size: 20pt;
+  }
+  h2{
+    position: absolute;
+    top: 0;
+    top: 100px; left: 150px;
+    font-size: 16pt;
+  }
+  h3{
+    position: absolute;
+    top: 0;
+    top: 300px; left: 100px;
+    font-size: 20pt;
+  }
+  .im{
+    position: absolute;
+    top: 19px; left: 1750px;
+  }
+
+  .squa {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    top: 150px; left: 380px;
+    font-size: 16pt;
+    position: absolute;
+    top: 400px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  .square {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 16pt;
+    position: absolute;
+    top: 700px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  .squar {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 16pt;
+    position: absolute;
+    top: 1000px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  .squ {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 16pt;
+    position: absolute;
+    top: 1600px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }  
+  .s {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 16pt;
+    position: absolute;
+    top: 1900px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  .sq {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 16pt;
+    position: absolute;
+    top: 1300px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  .i {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 16pt;
+    position: absolute;
+    top: 2200px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  .m {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 16pt;
+    position: absolute;
+    top: 2500px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  #pertext8 {
+    position: absolute;
+    top: 0;
+    top: 609px; left: 100px;
+    font-size: 20pt;
+  }
+  #pertext9 {
+    position: absolute;
+    top: 0;
+    top: 900px; left: 100px;
+    font-size: 20pt;
+  }
+  #pertext10 {
+    position: absolute;
+    top: 0;
+    top: 1200px; left: 100px;
+    font-size: 20pt;
+  }
+  #pertext11 {
+    position: absolute;
+    top: 0;
+    top: 1500px; left: 100px;
+    font-size: 20pt;
+  }
+  #pertext12 {
+    position: absolute;
+    top: 0;
+    top: 1800px; left: 100px;
+    font-size: 20pt;
+  }
+  #pertext13 {
+    position: absolute;
+    top: 0;
+    top: 2100px; left: 100px;
+    font-size: 20pt;
+  }
+  #pertext14 {
+    position: absolute;
+    top: 0;
+    top: 2400px; left: 100px;
+    font-size: 20pt;
+  }
+  #pertext10 {
+    position: absolute;
+    top: 0;
+    top: 1200px; left: 100px;
+    font-size: 20pt;
+  }

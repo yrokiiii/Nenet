@@ -1,0 +1,65 @@
+body {
+    background-color: #000000;
+  }
+  
+  body  {
+    color: #ffffff;
+    margin: 0;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  .myButton {
+    position: absolute;
+     top: 0px; left: 0px;    
+       background-color: #000; /* черный цвет */
+         color: white;
+         border: 2px solid #fff; /* белая обводка */
+         padding: 10px 40px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 100px 60px;
+         cursor: pointer;
+       }
+       .myButon {
+    position: absolute;
+     top: 50px; left: 0px;    
+       background-color: #000; /* черный цвет */
+         color: white;
+         border: 2px solid #fff; /* белая обводка */
+         padding: 10px 40px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 150px 60px;
+         cursor: pointer;
+       }
+       .mButton {
+    position: absolute;
+     top: 100px; left: 0px;    
+       background-color: #000; /* черный цвет */
+         color: white;
+         border: 2px solid #fff; /* белая обводка */
+         padding: 10px 40px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 200px 60px;
+         cursor: pointer;
+       }
+       .myButto {
+    position: absolute;
+     top: 150px; left: 0px;    
+       background-color: #000; /* черный цвет */
+         color: white;
+         border: 2px solid #fff; /* белая обводка */
+         padding: 10px 40px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 250px 60px;
+         cursor: pointer;
+       }

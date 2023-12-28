@@ -1,0 +1,44 @@
+body { background-color: black; }
+body  {
+	color: #ffffff;
+	margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .square {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 12pt;
+    position: absolute;
+    top: 50px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  #mImage {
+    position: absolute;
+  top: 60px; left: 1150px;
+  }
+  .s {
+    width: 1450px;
+    height: 270px;
+    background-color: black;
+    border: 2px solid white;
+    text-align: left;
+    line-height: center; /* Выравнивание текста по центру */
+    color: white;
+    line-height: 1.5;
+    font-size: 12pt;
+    position: absolute;
+    top: 340px; /* расположение от верхнего края */
+    left: 50px; /* расположение от левого края */
+    border-radius: 20px; /* скругление углов */
+  }
+  #mag {
+    position: absolute;
+  top: 355px; left: 1150px;
+  }
