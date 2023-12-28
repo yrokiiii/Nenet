@@ -1,0 +1,46 @@
+body { background-color: black; }    
+  body  {
+    color: #ffffff;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25pt;
+    margin-right: 2px;
+}
+body {
+    font-weight: bold;
+}
+b{
+    font-size: 20pt;
+    color: #666464;
+}
+#my {
+    position: absolute;
+  top: 2700px; left: -10px;
+  }
+  #mu {
+    position: absolute;
+  top: 3500px; left: 00px;
+  }
+  a {
+    position: absolute;
+    text-align: ;
+
+}
+#ma {
+    position: absolute;
+  top: 3750px; right: 50px;
+  }
+  .image-container {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    margin: 1px;
+  }
+  
+  .zoom-image {
+    transition: transform 0.3s;
+  }
+  
+  .image-container:hover .zoom-image {
+    transform: scale(1.2);
+  }

@@ -1,0 +1,46 @@
+.image-container {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  margin: 1px;
+}
+
+.zoom-image {
+  transition: transform 0.3s;
+}
+
+.image-container:hover .zoom-image {
+  transform: scale(1.2);
+}
+  #pertext3 {
+    position: absolute;
+    top: 0;
+    top: 8px; left: 1980px;
+  }
+    body { background-color: black; }
+    #myImage {
+        position: absolute;
+      top: 19px; left: 1920px;
+      }
+      body  {
+        color: #ffffff;
+        margin: 0;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left
+    }
+    body {
+        overflow: hidden;
+      }
+
+
+    
+    .menu a {
+ 
+        color: rgb(255, 255, 255); 
+        padding: 14px; 
+        display: block;
+        font-size: 20px;
+    }
+    img{
+        text-align: center 
+    }
